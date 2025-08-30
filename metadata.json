@@ -1,0 +1,5 @@
+{
+  "name": "AI Fitness & Calorie Advisor",
+  "description": "An intelligent web application that calculates your Basal Metabolic Rate (BMR), Total Daily Energy Expenditure (TDEE), and provides personalized dietary and exercise advice using AI to help you achieve your fitness goals.",
+  "requestFramePermissions": []
+}
